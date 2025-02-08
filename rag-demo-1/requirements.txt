@@ -1,0 +1,10 @@
+langchain~=0.3.18
+langchain-openai~=0.3.4
+langchain-core~=0.3.34
+beautifulsoup4~=4.13.3
+langchain-community~=0.3.17
+langchain-text-splitters~=0.3.6
+typing_extensions~=4.12.2
+langgraph~=0.2.70
+python-dotenv~=1.0.1
+ipython~=8.32.0
